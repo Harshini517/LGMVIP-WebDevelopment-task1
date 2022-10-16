@@ -24,13 +24,12 @@ body{
     text-align: right;
     font-size: 30px;
     letter-spacing: 1px;
-    color: #feaea7
-    width: 90%;
+    color:black;
     margin-left: auto;
     margin-right: 120px;
     bottom:40%;
     position: absolute;
-    height: 80%;
+    height : 80%;
     
  
 }
